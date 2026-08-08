@@ -52,6 +52,7 @@
 ![AI-900](https://img.shields.io/badge/Microsoft%20AI--901-Passed-2ea44f?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![IBM AI](https://img.shields.io/badge/IBM%20AI%20Fundamentals-Badge%20Earned-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![GH-900](https://img.shields.io/badge/GitHub%20Foundations%20(GH--900)-In%20Progress-yellow?style=for-the-badge&logo=github&logoColor=white)
+![Foundational C# with Microsoft](https://img.shields.io/badge/Foundational%20C#%20with%20Microsoft-passed-green?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 <br/>
 
