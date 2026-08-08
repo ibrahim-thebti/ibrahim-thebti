@@ -1,20 +1,23 @@
-<h1 align="center">Hi there 👋, I'm Ibrahym</h1>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
+  Hi there, I'm Ibrahym
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;AI+%26+Backend+Enthusiast;Always+Building+Something" alt="Typing SVG" />
+</p>
 <br/>
-
 ## 🔗 About Me:
-
+ 
 Software Engineering student at ISIMS (Institut Supérieur d'Informatique et de Multimédia de Sfax) 🇹🇳
 I'm currently focused on backend development, AI-powered apps, and competitive programming, while working toward cloud & DevOps certifications like GitHub Foundations (GH-900).
-
+ 
 <br/>
-
 ## 🌐 Socials:
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-thebt)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimthebty@gmail.com)
-
+ 
 <br/>
 
 ## 💻 Tech Stack:
