@@ -6,15 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Web+Dev+%26+Problem+Solving;AI+Enthusiast;Always+Building+Something" alt="Typing SVG" />
 </p>
 <br/>
+
 ## 🔗 About Me:
  
-I am a motivated pre-engineering student who genuinely enjoys problem-solving and building things that matter. 🚀
-Through my studies, I built a strong foundation in mathematics, physics, algorithms, and engineering fundamentals and I have been putting that into practice through hands-on projects like a food delivery site, a movie platform, a calculator, and more. 💻
-I am also deeply passionate about Artificial Intelligence and always eager to learn more about it exploring new concepts, understanding how it works, and discovering how it can be applied to solve real problems. 🤖
-
-I love exploring new technologies and learning by doing. Every project, challenge, or concept I tackle pushes me a step further, and I would not have it any other way. Whether it is competitive programming, building a new web project, or diving into an AI concept. I am always hungry to grow. 📚
+- Software Engineering student at Higher Institute of Computer Science and Multimedia 🇹🇳
+- focused on web development, AI-powered apps, and competitive programming.
  
 <br/>
+
 ## 🌐 Socials:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-thebti/)
