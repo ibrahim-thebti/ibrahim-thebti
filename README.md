@@ -8,8 +8,11 @@
 <br/>
 ## 🔗 About Me:
  
-Software Engineering student at ISIMS (Institut Supérieur d'Informatique et de Multimédia de Sfax) 🇹🇳
-I'm currently focused on web development, AI-powered apps, and competitive programming.
+I am a motivated pre-engineering student who genuinely enjoys problem-solving and building things that matter. 🚀
+Through my studies, I built a strong foundation in mathematics, physics, algorithms, and engineering fundamentals and I have been putting that into practice through hands-on projects like a food delivery site, a movie platform, a calculator, and more. 💻
+I am also deeply passionate about Artificial Intelligence and always eager to learn more about it exploring new concepts, understanding how it works, and discovering how it can be applied to solve real problems. 🤖
+
+I love exploring new technologies and learning by doing. Every project, challenge, or concept I tackle pushes me a step further, and I would not have it any other way. Whether it is competitive programming, building a new web project, or diving into an AI concept. I am always hungry to grow. 📚
  
 <br/>
 ## 🌐 Socials:
