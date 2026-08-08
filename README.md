@@ -54,7 +54,7 @@ I'm currently focused on web development, AI-powered apps, and competitive progr
 
 ## 📊 GitHub Stats:
 
-![Ibrahym's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-thebti&show_icons=true&theme=radical)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-thebti&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-thebti&layout=compact&theme=radical)
 
@@ -64,7 +64,7 @@ I'm currently focused on web development, AI-powered apps, and competitive progr
 
 ## 🐍 Contribution Snake:
 
-![snake gif](https://raw.githubusercontent.com/ibrahim-thebt/ibrahim-thebti/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ibrahim-thebti/ibrahim-thebti/output/github-contribution-grid-snake.svg)
 
 <br/>
 
