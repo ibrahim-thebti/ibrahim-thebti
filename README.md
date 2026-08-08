@@ -15,10 +15,10 @@ I'm currently focused on web development, AI-powered apps, and competitive progr
 ## 🌐 Socials:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR-INSTAGRAM-HANDLE)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR-FACEBOOK-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-thebt)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimthebty@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimthebty@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimthebty@gmail.com)
  
 <br/>
 
