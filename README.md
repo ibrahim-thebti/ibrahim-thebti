@@ -3,7 +3,7 @@
   Hi there, I'm Ibrahim
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;AI+%26+Enthusiast;Always+Building+Something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Web+Dev+%26+Problem+Solving;AI+Enthusiast;Always+Building+Something" alt="Typing SVG" />
 </p>
 <br/>
 ## 🔗 About Me:
