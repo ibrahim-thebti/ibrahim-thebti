@@ -52,22 +52,6 @@ I'm currently focused on web development, AI-powered apps, and competitive progr
 
 <br/>
 
-## 📊 GitHub Stats:
-
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-thebti&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-thebti&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-thebti&theme=radical)
-
-<br/>
-
-## 🐍 Contribution Snake:
-
-![snake gif](https://raw.githubusercontent.com/ibrahim-thebti/output/github-contribution-grid-snake.svg)
-
-<br/>
-
 ## 🐱‍💻 Random Dev Quote:
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
