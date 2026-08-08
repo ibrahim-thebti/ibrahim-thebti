@@ -64,7 +64,7 @@ I'm currently focused on web development, AI-powered apps, and competitive progr
 
 ## 🐍 Contribution Snake:
 
-![snake gif](https://raw.githubusercontent.com/ibrahim-thebti/ibrahim-thebti/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ibrahim-thebti/output/github-contribution-grid-snake.svg)
 
 <br/>
 
